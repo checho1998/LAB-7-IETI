@@ -11,9 +11,9 @@
 - Se creo este repositorio y se inicio con npm init
 - Se crearon las carpetas y se probo el POST 
 
-![Imagenes](https://github.com/checho1998/LAB-7-IETI/tree/main/Imagenes/pruebaLocal.PNG)
+![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/pruebaLocal.PNG)
 
-![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/Local.PNG)
+![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/Local.PNG)
 
 - Se inicio la cuenta con azure y se subio a azure
 
