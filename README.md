@@ -1,10 +1,16 @@
 # LAB-7-IETI 
 
 ## Link de Azue
+
 #### Add-Task
+
 - https://ietitask-api.azurewebsites.net/api/add-task?code=8AaR9H6R7Cn6DCavQgHFIjD5LCK2sKydftRau9q9bigd9z61uovzHw==
 - El anterios es un Post entonces dara error para eso utilice este:
 - https://ietitask-api.azurewebsites.net/?code=8AaR9H6R7Cn6DCavQgHFIjD5LCK2sKydftRau9q9bigd9z61uovzHw==
+
+#### List-Task
+
+- https://ietitask-api.azurewebsites.net/api/list-tasks?code=FZ79as2gRMLBkh3J/37R9eJ7CX5Htl48Itt4xyUaf03KvadqlfyxuA==
 
 ## Desarrollo
 
