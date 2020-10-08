@@ -17,29 +17,29 @@
 
 - Se inicio la cuenta con azure y se subio a azure
 
-![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/fin1.PNG)
+![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/fin1.PNG)
 
 - Se subio la add-Task a azure
 
-![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/add-Task.PNG)
+![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/add-Task.PNG)
 
 - Se reviso su correcto uso en Azure de add-Task
 
-![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/EnAzure.PNG)
+![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/EnAzure.PNG)
 
 - Se realizo el mismo procedimiento con la listTask 
 
 - Local
 
-![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/LocalList.PNG)
+![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/LocalList.PNG)
 
 - En Azure 
 
-![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/azureList.PNG)
+![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/azureList.PNG)
 
 - Se evidencia las dos en Azure
 
-![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/lasDos.PNG)
+![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/lasDos.PNG)
 
 
 
