@@ -2,6 +2,9 @@
 
 ## Link de Azue
 
+## AVISAR !!!
+## Por favor avisar cuando se vaya a calificar para Iniciar el App y no malgastar recursos
+
 #### Add-Task
 
 - https://ietitask-api.azurewebsites.net/api/add-task?code=8AaR9H6R7Cn6DCavQgHFIjD5LCK2sKydftRau9q9bigd9z61uovzHw==
