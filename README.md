@@ -13,6 +13,8 @@
 
 ![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/pruebaLocal.PNG)
 
+- Como es un post se ve asi ya que todo el link lanza un error ya que es POST y no un GET
+
 ![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/main/Imagenes/Local.PNG)
 
 - Se inicio la cuenta con azure y se subio a azure
