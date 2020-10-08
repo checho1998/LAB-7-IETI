@@ -12,6 +12,7 @@
 - Se crearon las carpetas y se probo el POST 
 
 ![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/pruebaLocal.PNG)
+
 ![Imagenes](https://github.com/checho1998/LAB-7-IETI/blob/master/Imagenes/Local.PNG)
 
 - Se inicio la cuenta con azure y se subio a azure
